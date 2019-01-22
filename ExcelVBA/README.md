@@ -21,7 +21,7 @@
 
 ### The ClearResults Module simply erases the data summarized in the HStockAnalysis Module.
 
-###The FilterCopy Module filters all the data in the "Data" worksheet based on the ticker symbol selected in the dropdown. 
+### The FilterCopy Module filters all the data in the "Data" worksheet based on the ticker symbol selected in the dropdown. 
 
 * The filtered data is then copied to the OHLCChart tab so that a chart can be made for that particular stock data.
 
